@@ -3,7 +3,8 @@ h1{
     font-weight:100
 }
 h2{
-    color: red 
+    color: red;
+    font-size: x-large;
 }
 
 a {
@@ -15,4 +16,17 @@ a {
     font-size: x-large;
     color: purple
     
+}
+
+.funfact{
+    width: 1%;
+    background-color: aqua;
+}
+#fact1{
+    color: coral;
+    font-style: italic;
+    text-decoration: wavy;
+}
+#special{
+    font-style: oblique;
 }
