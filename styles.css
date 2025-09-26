@@ -1,32 +1,30 @@
-h1{
-    color:blue;
-    font-weight:100
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 40px;
+    line-height: 1.8;
+    text-align: center;
 }
-h2{
+
+h1 {
+    color: blue;
+    margin-bottom: 20px;
+}
+
+h2 {
     color: red;
-    font-size: x-large;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 
-a {
+p {
     color: black;
-    font-weight:100
+    margin-bottom: 20px;
 }
 
-.thisclass {
-    font-size: x-large;
-    color: purple
-    
+img {
+    margin-top: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
 }
 
-.funfact{
-    width: 1%;
-    background-color: aqua;
-}
-#fact1{
-    color: coral;
-    font-style: italic;
-    text-decoration: wavy;
-}
-#special{
-    font-style: oblique;
-}
